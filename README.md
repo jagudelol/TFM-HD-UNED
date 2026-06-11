@@ -26,13 +26,13 @@ Directora / Supervisor: Alba García Seco de Herrera
 
 | Autor / Author | Obra / Work | Fuente / Source |
 |---|---|---|
-| Johann Wolfgang von Goethe | *Maxims and Reflections* | Project Gutenberg |
-| Johann Wolfgang von Goethe | *On Nature* | Project Gutenberg |
-| Friedrich Nietzsche | *The Joyful Wisdom* | Project Gutenberg |
-| Friedrich Nietzsche | *The Antichrist* | Project Gutenberg |
-| Ludwig Feuerbach | *The Essence of Religion* | Internet Archive |
-| Ludwig Feuerbach | *The Philosophy of the Future* | Marxists Internet Archive |
-| Ludwig Feuerbach | *Provisional Theses for the Reformation of Philosophy* | University of Sussex |
+| Johann Wolfgang von Goethe | *Maxims and Reflections* | [Project Gutenberg](www.gutenberg.org/ebooks/33670) |
+| Johann Wolfgang von Goethe | *On Nature* | [Project Gutenberg](www.gutenberg.org/ebooks/33670) |
+| Friedrich Nietzsche | *The Joyful Wisdom* | [Project Gutenberg](https://www.gutenberg.org/ebooks/52881) |
+| Friedrich Nietzsche | *The Antichrist* | [Project Gutenberg](https://www.gutenberg.org/ebooks/19322) |
+| Ludwig Feuerbach | *The Essence of Religion* | [Internet Archive](https://archive.org/details/essenceofreligio00feue/page/n5/mode/2up) |
+| Ludwig Feuerbach | *The Philosophy of the Future* | [Marxists Internet Archive](https://www.marxists.org/reference/archive/feuerbach/works/future/index.htm) |
+| Ludwig Feuerbach | *Provisional Theses for the Reformation of Philosophy* | [University of Sussex](https://users.sussex.ac.uk/~sefd0/tx/pt.htm) |
 
 ---
 
