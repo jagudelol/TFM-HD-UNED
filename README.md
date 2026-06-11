@@ -67,7 +67,7 @@ Directora / Supervisor: Alba García Seco de Herrera
 
 | Script | Fuente / Source | Obras / Works |
 |---|---|---|
-| `scrapper_gutenberg.py` | Project Gutenberg | *Maxims and Reflections*, *The Joyful Wisdom*, *The Antichrist* |
+| `scrapper_gutenberg_n.py` | Project Gutenberg | *Maxims and Reflections*, *The Joyful Wisdom*, *The Antichrist* |
 | `scrapper_marxists.py` | marxists.org | *The Philosophy of the Future* |
 | `scrapper_sussex.py` | University of Sussex | *Provisional Theses for the Reformation of Philosophy* |
 | `manual.py` | Local / Manual input | *The Essence of Religion*, *On Nature* |
