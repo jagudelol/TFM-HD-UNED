@@ -18,7 +18,7 @@ Directora / Supervisor: Alba García Seco de Herrera
 
 ---
 
-## Corpus / Corpus
+## Corpus
 
 **ES** — Los aforismos provienen de las siguientes obras, disponibles en acceso abierto o dominio público:
 
