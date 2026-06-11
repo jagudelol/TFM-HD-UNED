@@ -51,8 +51,6 @@ Directora / Supervisor: Alba García Seco de Herrera
 📁 evaluation/        Script de evaluación y cálculo de métricas
                       Evaluation and metrics calculation script
 
-📁 data/              Aforismos en formato JSON (documentos individuales)
-                      Aphorisms in JSON format (individual documents)
 ```
 
 ---
