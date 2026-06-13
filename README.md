@@ -117,9 +117,10 @@ Directora / Supervisor: Alba García Seco de Herrera
 ## Dataset / Dataset
 
 The aphorism corpus used in this project is publicly available on Kaggle:
-
+```
 Agudelo Londoño, J. (2026). *Goethe, Nietzsche & Feuerbach Aphorisms* [Dataset]. 
 Kaggle. https://doi.org/10.34740/kaggle/dsv/16778060
+```
 ---
 
 ## Requisitos / Requirements
