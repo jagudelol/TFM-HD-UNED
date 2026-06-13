@@ -51,6 +51,9 @@ Directora / Supervisor: Alba García Seco de Herrera
 📁 evaluation/        Script de evaluación y cálculo de métricas
                       Evaluation and metrics calculation script
 
+📁 evaluation_results/
+    evaluation_pool.csv        # Pool con los scores de relevancia asignados
+    evaluation_report.csv      # Métricas calculadas (P@K, R@K, F1, MAP)
 ```
 
 ---
