@@ -114,6 +114,13 @@ Directora / Supervisor: Alba García Seco de Herrera
 > **EN** — The initial version of this script was generated with assistance from Claude Sonnet 4 and modified for the project's purposes. The original version can be consulted at: https://claude.ai/public/artifacts/bf255204-5032-47c8-8768-d836ae9b2aa0
 
 ---
+## Dataset / Dataset
+
+The aphorism corpus used in this project is publicly available on Kaggle:
+
+Agudelo Londoño, J. (2026). *Goethe, Nietzsche & Feuerbach Aphorisms* [Dataset]. 
+Kaggle. https://doi.org/10.34740/kaggle/dsv/16778060
+---
 
 ## Requisitos / Requirements
 
