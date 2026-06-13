@@ -113,6 +113,13 @@ Directora / Supervisor: Alba García Seco de Herrera
 >
 > **EN** — The initial version of this script was generated with assistance from Claude Sonnet 4 and modified for the project's purposes. The original version can be consulted at: https://claude.ai/public/artifacts/bf255204-5032-47c8-8768-d836ae9b2aa0
 
+The evaluation results are available in the `evaluation_results/` folder:
+
+- `evaluation_pool.csv` — full query results with manual relevance judgements 
+  (binary: 1 = relevant, 0 = not relevant) for all six indices and four queries.
+- `evaluation_report.csv` — calculated metrics (Precision@K, Recall@K, 
+  F1-Score@K, Average Precision) derived from the pool above.
+  
 ---
 ## Dataset / Dataset
 
